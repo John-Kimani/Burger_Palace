@@ -1,13 +1,25 @@
-span{
-    float: right;
-    display: inline;
-    word-spacing: 15px;
+*{
+    margin: 0;
+    padding: 0;
+}
+.slideone{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(100deg, white 60%, rgb(255, 251, 0) 60%);
+}
+.begin{
+    display: flex;
 }
 #headertop{
     float: right;
-    display: inline-flex;
-    word-spacing: 15px;
-
+}
+#headertop ul{
+    list-style: none;
+    display: flex;
+}
+#headertop ul li{
+    padding: 20px;
 }
 .pg1{
     float: left;
@@ -126,6 +138,7 @@ span{
     float: left;
 }
 .sitemap{
+    float: left;
 }
 .btn{
     float: right;
