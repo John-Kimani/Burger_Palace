@@ -3,7 +3,7 @@ span{
     display: inline;
     word-spacing: 15px;
 }
-.logo{
+#logo{
     height: 40px;
     width: 40px;
     float: left;
@@ -13,6 +13,9 @@ span{
     margin-top: 200px;
     margin-left: 100px;
 }
-.cityimage{
-    size: 10px;
+#cityimage{
+    width: 400px;
+    height: 550px;
+    margin-left: 20%;
+    margin-top: 10%;
 }
