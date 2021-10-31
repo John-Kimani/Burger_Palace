@@ -141,6 +141,8 @@
     display: flex;
     justify-content: space-around;
     background: rgb(241, 237, 234);
+    height: 300px;
+    padding: 10px;
 }
 .logo1{
     float: left;
@@ -156,7 +158,10 @@
     display: flex;
 }
 .decker{
-    float: left;
+    height: 450px;
+    display: flex;
+    background: rgb(215, 239, 248);
+    font-size: xx-large;
 }
 .discover{
     background: rgb(255, 217, 0);
