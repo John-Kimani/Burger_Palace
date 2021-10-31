@@ -1,0 +1,18 @@
+span{
+    float: right;
+    display: inline;
+    word-spacing: 15px;
+}
+.logo{
+    height: 40px;
+    width: 40px;
+    float: left;
+}
+.pg1{
+    float: left;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.cityimage{
+    size: 10px;
+}
