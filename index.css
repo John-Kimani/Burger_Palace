@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slideone{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(100deg, white 60%, rgb(255, 217, 0) 60%);
+}
+.begin{
+    color: #000000;
+    font-family: 'lobster'cursive;
+    font-weight: 400;
+    font-size: 20;
+}
+.end{
+    color: #ffc12b;
+    font-family: 'lobster' cursive;
+}
+#headertop{
+    float: right;
+}
+#headertop ul{
+    list-style: none;
+    display: flex;
+}
+#headertop ul li{
+    padding: 20px;
+}
+.pg1{
+    float: left;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+#cityimage{
+    width: 400px;
+    height: 550px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.quality1{
+    border: 1px solid rgb(221, 221,221);
+    border-width: 3px;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 50px;
+}
+.fast{
+    border: 1px solid rgb(221, 221, 221);
+    border-width: 3px;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 50px;
+
+}
+.delicious{
+    border: 1px solid rgb(221, 221,221);
+    border-width: 3px;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 50px;
+}
+.double1{
+    border: 1px solid rgb(221, 221, 221);
+    border-width: 3px;
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+#seek2{
+    height: 100px;
+    width: 100px;
+}
+.double2{
+    border: 1px solid rgb(221, 221, 221);
+    border-width: 3px;
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 50px;
+}
+#seek1{
+    height: 100px;
+    width: 100px;
+}
+.double3{
+    border: 1px solid rgb(221, 221, 221);
+    border-width: 3px;
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+#seek3{
+    height: 100px;
+    width: 100px;
+}
+.double4{
+    border: 1px solid rgb(221, 221, 221);
+    border-width: 3px;
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+#seek4{
+    height: 100px;
+    width: 100px;
+}
+.double5{
+    border: 1px solid rgb(221, 221, 221);
+    border-width: 3px;
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+#seek5{
+    height: 100px;
+    width: 100px;
+}
+.double6{
+    border: 1px solid rgb(221, 221, 221);
+    border-width: 3px;
+    height:450px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+#seek6{
+    height: 100px;
+    width: 100px;
+}
+#menu{
+    color: yellow;
+}
+#menuup{
+    display: flex;
+    justify-content: space-around;
+}
+#menubottom{
+    display: flex;
+    justify-content: space-around;
+}
+.slidetwo{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(241, 237, 234);
+    height: 300px;
+    padding: 10px;
+}
+.logo1{
+    float: left;
+}
+.sitemap{
+    float: left;
+
+}
+.btn{
+    float: right;
+}
+#doubleimage{
+    display: flex;
+}
+.decker{
+    height: 450px;
+    display: flex;
+    background: rgb(240, 238, 230);
+    font-size: xx-large;
+}
+.discover{
+    background: rgb(255, 217, 0);
+    height: 50vh;
+    width: 100%;
+    display: flex;
+}
+#secondlast{
+    background: rgb(240, 238, 230);
+    height: 200px;
+    width: 100%;
+}
+.footer{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+}
+.footer ul{
+    float: left;
+}
