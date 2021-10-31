@@ -23,19 +23,22 @@ span{
     border: 1px solid black;
     border-width: 3px;
     height: 300px;
-    width: 150px;
+    width: 300px;
+    border-radius: 10px;
 }
 .fast{
     border: 1px solid black;
     border-width: 3px;
     height: 300px;
-    width: 150px;
+    width: 300px;
+    border-radius: 10px;
 }
 .delicious{
     border: 1px solid black;
     border-width: 3px;
     height: 300px;
-    width: 150px;
+    width: 300px;
+    border-radius: 10px;
 }
 .double1{
     border: 1px solid black;
@@ -111,6 +114,10 @@ span{
     justify-content: space-around;
 }
 #menubottom{
+    display: flex;
+    justify-content: space-around;
+}
+.slidetwo{
     display: flex;
     justify-content: space-around;
 }
