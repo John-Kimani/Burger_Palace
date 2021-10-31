@@ -6,7 +6,7 @@
     position: relative;
     height: 100vh;
     width: 100%;
-    background: linear-gradient(100deg, white 60%, rgb(255, 251, 0) 60%);
+    background: linear-gradient(100deg, white 60%, rgb(255, 217, 0) 60%);
 }
 .begin{
     color: #000000;
@@ -156,4 +156,9 @@
 }
 .decker{
     float: left;
+}
+.discover{
+    background: rgb(255, 217, 0);
+    height: 50vh;
+    width: 100%;
 }
