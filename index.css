@@ -19,3 +19,71 @@ span{
     margin-left: 20%;
     margin-top: 10%;
 }
+.quality1{
+    border: 1px solid black;
+    border-width: 3px;
+    height: 300px;
+    width: 150px;
+}
+.fast{
+    border: 1px solid black;
+    border-width: 3px;
+    height: 300px;
+    width: 150px;
+}
+.delicious{
+    border: 1px solid black;
+    border-width: 3px;
+    height: 300px;
+    width: 150px;
+}
+.double1{
+    border: 1px solid black;
+    border-width: 3px;
+    height: 450px;
+    width: 150px;
+}
+#seek2{
+    height: 100px;
+    width: 100px;
+}
+.double2{
+    border: 1px solid black;
+    border-width: 3px;
+    height: 450px;
+    width: 150px;
+}
+#seek1{
+    height: 100px;
+    width: 100px;
+}
+.double3{
+    border: 1px solid black;
+    border-width: 3px;
+    height: 450px;
+    width: 150px;
+}
+#seek3{
+    height: 100px;
+    width: 100px;
+}
+.double4{
+    border: 1px solid black;
+    border-width: 3px;
+    height: 450px;
+    width: 150px;
+}
+#seek4{
+    height: 100px;
+    width: 100px;
+}
+.double5{
+    border: 1px solid black;
+    border-width: 3px;
+    height: 450px;
+    width: 150px;
+}
+#seek5{
+    height: 100px;
+    width: 100px;
+}
