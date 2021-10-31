@@ -174,3 +174,8 @@
     height: 200px;
     width: 100%;
 }
+.footer{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+}
