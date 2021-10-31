@@ -70,6 +70,7 @@
     height: 450px;
     width: 300px;
     border-radius: 10px;
+    padding-left: 20px;
 }
 #seek2{
     height: 100px;
@@ -81,6 +82,7 @@
     height: 450px;
     width: 300px;
     border-radius: 10px;
+    padding-left: 50px;
 }
 #seek1{
     height: 100px;
@@ -92,6 +94,7 @@
     height: 450px;
     width: 300px;
     border-radius: 10px;
+    padding-left: 20px;
 }
 #seek3{
     height: 100px;
@@ -103,6 +106,7 @@
     height: 450px;
     width: 300px;
     border-radius: 10px;
+    padding-left: 20px;
 }
 #seek4{
     height: 100px;
@@ -114,6 +118,7 @@
     height: 450px;
     width: 300px;
     border-radius: 10px;
+    padding-left: 20px;
 }
 #seek5{
     height: 100px;
@@ -125,6 +130,7 @@
     height:450px;
     width: 300px;
     border-radius: 10px;
+    padding-left: 20px;
 }
 #seek6{
     height: 100px;
