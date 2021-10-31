@@ -3,10 +3,11 @@ span{
     display: inline;
     word-spacing: 15px;
 }
-#logo{
-    height: 40px;
-    width: 40px;
-    float: left;
+#headertop{
+    float: right;
+    display: inline-flex;
+    word-spacing: 15px;
+
 }
 .pg1{
     float: left;
@@ -120,4 +121,12 @@ span{
 .slidetwo{
     display: flex;
     justify-content: space-around;
+}
+.logo1{
+    float: left;
+}
+.sitemap{
+}
+.btn{
+    float: right;
 }
