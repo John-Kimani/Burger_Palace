@@ -140,6 +140,7 @@
 .slidetwo{
     display: flex;
     justify-content: space-around;
+    background: rgb(241, 237, 234);
 }
 .logo1{
     float: left;
@@ -161,6 +162,7 @@
     background: rgb(255, 217, 0);
     height: 50vh;
     width: 100%;
+    display: flex;
 }
 #secondlast{
     background: rgb(240, 238, 230);
