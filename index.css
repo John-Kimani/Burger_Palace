@@ -120,6 +120,10 @@ p{
     padding-top: 50px;
 }
 /* container two */
+.ourmenu{
+    background-color: rgb(255, 255, 255);
+    height: 130vh;
+}
 .double1{
     border: 1px solid rgb(221, 221, 221);
     border-width: 3px;
@@ -193,8 +197,13 @@ p{
     width: 100px;
 }
 /* container three */
+
+.menu{
+    font-weight: 1000px;
+    text-align: center;
+}
 #menu{
-    color: yellow;
+    color: rgb(251, 192, 44);
 }
 #menuup{
     display: flex;
