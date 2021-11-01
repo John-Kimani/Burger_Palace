@@ -120,9 +120,21 @@ p{
     padding-top: 50px;
 }
 /* container two */
+.menu{
+    font-weight: 1000px;
+    text-align: center;
+}
 .ourmenu{
     background-color: rgb(255, 255, 255);
     height: 130vh;
+}
+#menu{
+    color: rgb(251, 192, 44);
+}
+#image_row{
+    display: flex;
+    justify-content: center;
+    height: 200px;
 }
 .double1{
     border: 1px solid rgb(221, 221, 221);
@@ -132,10 +144,6 @@ p{
     border-radius: 10px;
     padding-left: 20px;
 }
-#seek2{
-    height: 100px;
-    width: 100px;
-}
 .double2{
     border: 1px solid rgb(221, 221, 221);
     border-width: 3px;
@@ -143,10 +151,6 @@ p{
     width: 300px;
     border-radius: 10px;
     padding-left: 50px;
-}
-#seek1{
-    height: 100px;
-    width: 100px;
 }
 .double3{
     border: 1px solid rgb(221, 221, 221);
@@ -156,9 +160,19 @@ p{
     border-radius: 10px;
     padding-left: 20px;
 }
-#seek3{
-    height: 100px;
-    width: 100px;
+#menuup{
+    display: flex;
+    justify-content: space-around;
+}
+#menubottom{
+    display: flex;
+    justify-content: space-around;
+}
+.double_low{
+    border: ipx solid black;
+    border-width: 3px;
+    height: 450px;
+    border-radius: 10px;
 }
 .double4{
     border: 1px solid rgb(221, 221, 221);
@@ -168,51 +182,11 @@ p{
     border-radius: 10px;
     padding-left: 20px;
 }
-#seek4{
-    height: 100px;
-    width: 100px;
-}
-.double5{
-    border: 1px solid rgb(221, 221, 221);
-    border-width: 3px;
-    height: 450px;
-    width: 300px;
-    border-radius: 10px;
-    padding-left: 20px;
-}
-#seek5{
-    height: 100px;
-    width: 100px;
-}
-.double6{
-    border: 1px solid rgb(221, 221, 221);
-    border-width: 3px;
-    height:450px;
-    width: 300px;
-    border-radius: 10px;
-    padding-left: 20px;
-}
-#seek6{
-    height: 100px;
-    width: 100px;
-}
 /* container three */
 
-.menu{
-    font-weight: 1000px;
-    text-align: center;
-}
-#menu{
-    color: rgb(251, 192, 44);
-}
-#menuup{
-    display: flex;
-    justify-content: space-around;
-}
-#menubottom{
-    display: flex;
-    justify-content: space-around;
-}
+
+
+
 
 .sitemap{
     float: left;
