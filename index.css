@@ -6,7 +6,7 @@
     position: relative;
     height: 100vh;
     width: 100%;
-    background: linear-gradient(100deg, white 60%, rgb(255, 217, 0) 60%);
+    background: linear-gradient(100deg, white 60%, rgb(251, 192, 44) 60%);
 }
 .navbar{
     display: flex;
@@ -127,6 +127,7 @@ p{
 .ourmenu{
     background-color: rgb(255, 255, 255);
     height: 130vh;
+    margin: 50px;
 }
 #menu{
     color: rgb(251, 192, 44);
@@ -141,7 +142,7 @@ p{
     border-width: 3px;
     height: 450px;
     width: 300px;
-    border-radius: 10px;
+    border-radius: 50px;
     padding-left: 20px;
 }
 .double2{
@@ -149,7 +150,7 @@ p{
     border-width: 3px;
     height: 450px;
     width: 300px;
-    border-radius: 10px;
+    border-radius: 50px;
     padding-left: 50px;
 }
 .double3{
@@ -157,7 +158,7 @@ p{
     border-width: 3px;
     height: 450px;
     width: 300px;
-    border-radius: 10px;
+    border-radius: 50px;
     padding-left: 20px;
 }
 #menuup{
@@ -179,47 +180,55 @@ p{
     border-width: 3px;
     height: 450px;
     width: 300px;
-    border-radius: 10px;
+    border-radius: 50px;
     padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin: 50px;
+}
+#ksh{
+    text-align: left;
+    font-size: 30px;
+}
+#detail{
+    font-size: 18px;
+    text-align: left;
 }
 /* container three */
 
-
-
-
-
-.sitemap{
-    float: left;
-
-}
-.btn{
-    float: right;
-}
-#doubleimage{
-    display: flex;
-}
 .decker{
-    height: 450px;
+    height: 850px;
     display: flex;
-    background: rgb(240, 238, 230);
+    background: rgb(247, 253, 246);
     font-size: xx-large;
 }
+#worddecker{
+    color: rgb(251, 192, 65);
+}
+/* container four */
+
 .discover{
-    background: rgb(255, 217, 0);
-    height: 50vh;
-    width: 100%;
+    background: rgb(246, 180, 42);
+    height: 90vh;
     display: flex;
 }
-#secondlast{
-    background: rgb(240, 238, 230);
-    height: 200px;
-    width: 100%;
+
+/* container 5 */
+.secondlast{
+    display: flex;
+    height: 250px;
+    background: rgb(247,253, 246);
 }
+#lastlist{
+    list-style: none;
+}
+/* container 6 */
+
 .footer{
     display: flex;
-    list-style: none;
-    padding: 10px;
+    justify-content: space-between;
+    margin: 5px;
+    margin-right: 80px;
+    margin-left: 20px;
 }
-.footer ul{
-    float: left;
-}
+/* footer */
