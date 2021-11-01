@@ -62,33 +62,64 @@
     height: 50px;
     margin: 20px;
     margin-top: 100px;
+    background-color: rgb(245,148, 40);border-radius: 50px;
+    color: whitesmoke;
+
 }
 /* container one */
+.slidetwo{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(247, 253, 245);
+    height: 70vh;
+    padding: 10px;
+}
 .quality1{
     border: 1px solid rgb(221, 221,221);
     border-width: 3px;
-    height: 300px;
-    width: 300px;
-    border-radius: 10px;
-    padding-left: 50px;
+    height: 450px;
+    width: 380px;
+    border-radius: 50px;
+    margin-top: 100px;
 }
 .fast{
     border: 1px solid rgb(221, 221, 221);
     border-width: 3px;
-    height: 300px;
-    width: 300px;
-    border-radius: 10px;
-    padding-left: 50px;
+    height: 550px;
+    width: 410px;
+    border-radius: 50px;
+    margin-top: 60px;
 
 }
 .delicious{
-    border: 1px solid rgb(221, 221,221);
+    border: 3px solid rgb(221, 221,221);
     border-width: 3px;
-    height: 300px;
-    width: 300px;
-    border-radius: 10px;
-    padding-left: 50px;
+    height: 450px;
+    width: 380px;
+    border-radius: 50px;
+    margin-top: 100px;
 }
+h2{
+    text-align: center;
+    line-height: 100px;
+}
+p{
+    text-align: center;
+    font-weight: 1400px;
+}
+#fooddish{
+    padding-left: 120px;
+    padding-top: 50px;
+}
+#van{
+    padding-left: 150px;
+    padding-top: 120px;
+}
+#burgerdrink{
+    padding-left: 120px;
+    padding-top: 50px;
+}
+/* container two */
 .double1{
     border: 1px solid rgb(221, 221, 221);
     border-width: 3px;
@@ -161,6 +192,7 @@
     height: 100px;
     width: 100px;
 }
+/* container three */
 #menu{
     color: yellow;
 }
@@ -172,13 +204,7 @@
     display: flex;
     justify-content: space-around;
 }
-.slidetwo{
-    display: flex;
-    justify-content: space-around;
-    background: rgb(241, 237, 234);
-    height: 300px;
-    padding: 10px;
-}
+
 .sitemap{
     float: left;
 
