@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
 }
+
+/* section one */
 .slideone{
     position: relative;
     height: 100vh;
@@ -68,13 +70,17 @@
 
 }
 
-/* container one */
+/* section one */
+
+
+/* section two */
+
 .slidetwo{
     display: flex;
     justify-content: space-around;
     background: rgb(247, 253, 245);
-    height: 70vh;
-    padding: 10px;
+    height: 650px;
+    border: 1px solid rgb(247, 253, 245);
 }
 .quality1{
     border: 1px solid rgb(221, 221,221);
@@ -121,121 +127,81 @@ p{
     padding-left: 120px;
     padding-top: 50px;
 }
-/* container two */
-.menu{
-    font-weight: 1000px;
-    text-align: center;
+/* section two */
+
+/* section three */
+.sectionthree{
+    border: 3px solid red;
+    height: 1100px;
 }
-.ourmenu{
-    background-color: rgb(255, 255, 255);
-    height: 130vh;
-    margin: 50px;
+.card{
+    border: 3px solid rgb(247, 253, 245);
+    height: 450px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: rgb(247, 253, 245);
 }
-#menu{
-    color: rgb(251, 192, 44);
+.card img{
+    margin-left: 40px;
 }
-#image_row{
+.price{
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 30px;
+
+}
+.cart{
+    float: right;
+    margin-right: 20px;
+}
+
+.rowone{
     display: flex;
-    justify-content: center;
-    height: 200px;
-}
-.double1{
-    border: 1px solid rgb(221, 221, 221);
-    border-width: 3px;
-    height: 450px;
-    width: 300px;
-    border-radius: 50px;
-    padding-left: 20px;
-}
-.double2{
-    border: 1px solid rgb(221, 221, 221);
-    border-width: 3px;
-    height: 450px;
-    width: 300px;
-    border-radius: 50px;
-    padding-left: 50px;
-}
-.double3{
-    border: 1px solid rgb(221, 221, 221);
-    border-width: 3px;
-    height: 450px;
-    width: 300px;
-    border-radius: 50px;
-    padding-left: 20px;
-}
-#menuup{
-    display: flex;
+    margin: 10px;
     justify-content: space-around;
 }
-#menubottom{
+.rowtwo{
     display: flex;
+    margin: 10px;
     justify-content: space-around;
 }
-.double_low{
-    border: ipx solid black;
-    border-width: 3px;
-    height: 450px;
-    border-radius: 10px;
-}
-.double4{
-    border: 1px solid rgb(221, 221, 221);
-    border-width: 3px;
-    height: 450px;
-    width: 300px;
-    border-radius: 50px;
-    padding-left: 20px;
-    padding-right: 20px;
-    text-align: center;
-    margin: 50px;
-}
-#ksh{
-    text-align: left;
-    font-size: 30px;
-    display: flex;
-}
-#cartlogo{
-    margin-left: 110px;
-}
-#detail{
-    font-size: 18px;
-    text-align: left;
-}
-/* container three */
+/* Section three */
 
-.decker{
-    height: 850px;
-    display: flex;
-    background: rgb(247, 253, 246);
-    font-size: xx-large;
+
+
+/* section four */
+.sectionfour{
+    height: 500px;
+    border: 3px solid green;
 }
 
-#worddecker{
-    color: rgb(251, 192, 65);
-}
-/* container four */
+/* section four */
 
-.apps{
-    background: rgb(246, 180, 42);
-    height: 90vh;
-    display: flex;
+
+/* section five */
+.sectionfive{
+    border: 4px solid purple;
+    height: 800px;
+
 }
 
-/* container 5 */
-.secondlast{
-    display: flex;
-    height: 250px;
-    background: rgb(247,253, 246);
-}
-#lastlist{
-    list-style: none;
-}
-.logo2{
-    display: flex;
-    align-items: center;
-    margin: 20px;
-}
-/* container 6 */
+/* section five */
 
+
+
+
+/* section six */
+.section6{
+    height: 500px;
+    border: 1px solid black;
+}
+
+/* section six */
+
+
+
+
+/* footer */
 .footer{
     display: flex;
     justify-content: space-between;
