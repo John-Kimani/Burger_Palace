@@ -216,14 +216,36 @@
 .logotwo{
     display: flex;
     align-items: center;
+    position: relative;
+    left: -120px;
 }
 .sectionsix ul{
     list-style: none;
     text-align: center;
+    position: relative;
+    top: 30px;
 }
 .sectionsix ul :first-child{
     font-size: 30px;
     font-weight: bold;
+}
+.subscribe{
+    position: relative;
+    top: 40px;
+    right: -60px;
+}
+#input{
+    height: 48px;
+    width: 280px;
+    border-radius: 5px;
+    border: 1px solid ;
+}
+#subbtn{
+    height: 48px;
+    width: 120px;
+    background-color: #ffc12b;
+    border: 1px solid #ffc12b;
+    color: white;
 }
 /* section six */
 
