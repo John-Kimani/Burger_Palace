@@ -96,6 +96,17 @@
     width: 350px;
     text-align: center;
 }
+
+.card12{
+    border: 1px solid brown;
+    border-radius: 20px;
+    height: 500px;
+    width: 350px;
+    text-align: center;
+    position: relative;
+    top: -70px;
+}
+
 /* section two */
 
 /* section three */
