@@ -3,7 +3,7 @@
 This is a fast-food burger restaurant website.
 
 ## Description
-This is a fast-food restaurant webiste dealing in a wide range of burgers. 
+This is a fast-food restaurant website dealing in a wide range of burgers. 
 The purpose of this website is to inform, advertise and engage clients to the restaurant online.
 
 By creating online traffic, this website also provides the restaurant's menu and allows clients to make orders online.
